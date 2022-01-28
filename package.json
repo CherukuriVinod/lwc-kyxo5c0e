@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/cherukurivinod.lwc-kyxo5c0e",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve LgEOTQw14OrVDOxyApSy --open"
+  }
+}
